@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50f40769-ab1f-418b-8c32-69c85c4ca864" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/services/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/balancd-news-reader.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cdk.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/balancd-news-reader-stack.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/balancd-news-reader.test.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/balancd-news-reader.test.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2UPdFoj0k4Hn126rfnH3h4lUFgz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/ncbl/Repos/Balanced/balancd-news-reader/src/services",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "\\\\wsl$\\Ubuntu\\home\\ncbl\\Repos\\Balanced\\balancd-news-reader\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ncbl\Repos\Balanced\balancd-news-reader\src\services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\ncbl\Repos\Balanced\balancd-news-reader\src\services" />
+      <recent name="\\wsl$\Ubuntu\home\ncbl\Repos\Balanced\balancd-news-reader\src" />
+      <recent name="\\wsl$\Ubuntu\home\ncbl\Repos\Balanced\balancd-news-reader" />
+      <recent name="\\wsl$\Ubuntu\home\ncbl\Repos\Balanced\balancd-news-reader\infrastructure" />
+      <recent name="\\wsl$\Ubuntu\home\ncbl\Repos\Balanced\balancd-news-reader\bin" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50f40769-ab1f-418b-8c32-69c85c4ca864" name="Changes" comment="" />
+      <created>1692845048227</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692845048227</updated>
+      <workItem from="1692845049262" duration="10234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/test/balancd-news-reader.test.d.ts" />
+        <option value="$PROJECT_DIR$/test/balancd-news-reader.test.js" />
+        <option value="$PROJECT_DIR$/bin/balancd-news-reader.d.ts" />
+        <option value="$PROJECT_DIR$/bin/balancd-news-reader.js" />
+        <option value="$PROJECT_DIR$/lib/balancd-news-reader-stack.d.ts" />
+        <option value="$PROJECT_DIR$/lib/balancd-news-reader-stack.js" />
+        <option value="$PROJECT_DIR$/src/services/index.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

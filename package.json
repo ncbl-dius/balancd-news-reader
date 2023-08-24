@@ -8,10 +8,10 @@
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
-    "cdk": "cdk"
+    "cdk": "cdk",
+    "cdk:deploy": "rm -r dist && tsc && cdk synth && cdk deploy"
   },
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.119",
     "@types/jest": "^29.5.4",
     "@types/node": "20.5.3",
     "aws-cdk": "2.93.0",
@@ -21,8 +21,8 @@
     "typescript": "~5.1.6"
   },
   "dependencies": {
+    "@types/aws-lambda": "^8.10.119",
     "aws-cdk-lib": "2.93.0",
-    "constructs": "^10.0.0",
-    "source-map-support": "^0.5.21"
+    "constructs": "^10.0.0"
   }
 }
